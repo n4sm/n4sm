@@ -1,6 +1,6 @@
 I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
 
-- 🔭 I’m currently working on a DBI engine based on [remill](https://github.com/lifting-bits/remill), and in the same time I continue to work on [pylinkern](https://github.com/n4sm/pylinkern): a kernel analysis / exploitation framework.
+- 🔭 I’m currently working on a DBI engine based on [remill](https://github.com/lifting-bits/remill) and [llvm](https://github.com/llvm/llvm-project), and in the same time I continue to work on [pylinkern](https://github.com/n4sm/pylinkern): a kernel analysis / exploitation framework.
 
 <!--
 **n4sm/n4sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
