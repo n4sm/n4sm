@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
+
+[![nasm's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4sm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **n4sm/n4sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
