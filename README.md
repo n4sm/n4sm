@@ -1,7 +1,7 @@
 I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
 
 - 🔭 I’m currently working on a DBI engine based on [remill](https://github.com/lifting-bits/remill) and [llvm](https://github.com/llvm/llvm-project).
-- Doing CTF's for @ret2school, + pwn / RE / kernel.
+- Doing CTF's for @[ret2school](github.com/ret2school), + pwn / RE / kernel.
 
 <!--
 **n4sm/n4sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
