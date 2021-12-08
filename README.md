@@ -1,6 +1,6 @@
 I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
 
-- 🔭 I’m currently working on a DBI engine based on [remill](https://github.com/lifting-bits/remill) and [llvm](https://github.com/llvm/llvm-project).
+- 🔭 I’m currently working on DBI engine stuff.
 - Doing CTF's for [ret2school](https://github.com/ret2school), + pwn / RE / kernel.
 
 <!--
