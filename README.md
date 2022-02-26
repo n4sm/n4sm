@@ -1,6 +1,6 @@
 I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
 
-- 🔭 I’m currently working on DBI engine stuff.
+- 🔭 I’m currently working on a DBI engine (dryadalis), coming soon !.
 - Doing CTF's for [ret2school](https://github.com/ret2school), + pwn / RE / kernel.
 
 <!--
