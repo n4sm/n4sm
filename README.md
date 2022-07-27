@@ -1,7 +1,8 @@
 I'm a french security enthusiast focused on low level stuff especially on binary obfuscation / analysis and on kernel stuff.
 
-- 🔭 I’m currently working on a DBI engine (dryadalis), coming soon !
 - Doing CTF's for [ret2school](https://github.com/ret2school), + pwn / RE / kernel.
+- Engineering student at [ESIEA](https://www.esiea.fr/).
+- Wrinting things on my [blog](https://nasm.re/).
 
 <!--
 **n4sm/n4sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
